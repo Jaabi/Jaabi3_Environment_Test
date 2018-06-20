@@ -1,6 +1,21 @@
 README
 ======
 
+What This Is
+------------
+
+This is a program that checks whether all the basic programming stuff is
+installed in a computer.
+
+I like to change computers a lot, and many of them do not have the adequate
+things installed (such as gcc) in order to code immediately. As such, I made
+this so that I can streamline the process of finding out what is missing.
+
+I hope this is helpful to me. If it is, then I hope it is also helpful to you.
+
+c:
+
+
 Using Make
 ----------
 
